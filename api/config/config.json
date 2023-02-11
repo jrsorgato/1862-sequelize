@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "fiapdb",
+    "password": "MySqlCloud1234@",
+    "database": "school_db",
+    "host": "fiap-cloud-db.mysql.database.azure.com",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "fiapdb",
+    "password": "MySqlCloud1234@",
+    "database": "school_db",
+    "host": "fiap-cloud-db.mysql.database.azure.com",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "fiapdb",
+    "password": "MySqlCloud1234@",
+    "database": "school_db",
+    "host": "fiap-cloud-db.mysql.database.azure.com",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}
