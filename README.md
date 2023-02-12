@@ -51,8 +51,11 @@ Chave de acesso (fiap_cloud.pem)
 Acessando o Banco de Dados, databases e tabelas:
 
 hostname=fiap-cloud-db.mysql.database.azure.com 
-username=fiapdb 
+
+username=fiapdb
+
 password=MySqlCloud1234@
+
 database: school_db
 
 Comando para acessar:
