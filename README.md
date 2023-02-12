@@ -5,8 +5,13 @@ English School
 
 "Disponibilizar em uma gravação vídeo disponibilizado ao professor uma apresentação com diagrama de arquitetura de solução Azure contendo no mínimo 3 serviços que se comuniquem e explicar o projeto mostrando a solução rodando em seu ambiente Azure com evidências como dados no banco de dados, log da aplicação ou ainda mensagens no broker de mensagem. Além do vídeo disponibilizar um repositório público onde seja possível ter acesso ao código fonte das aplicações que compõem a solução."
 
+Nesse exemplo vamos ver de forma simples os mais conhecidos como máquinas virtuais, banco de dados, storage, redes etc. 
 
-Vídeo da Apresentação no Youtube: LINK
+Após as configfurações os acessos à nossa aplicação se dará de duas formas diferentes: uma via cURL e outra diretamente pelo browser com umas das rotas da aplicação, observando as respostas dos dados em tela de forma responsiva na internet da nossa aplicação pelo web server (nossa Máquina Virtual criada).
+
+
+Vídeo da Apresentação no Youtube: https://youtu.be/_aWXbJjCwqE
+
 
 Visão geral - AZURE:
 
